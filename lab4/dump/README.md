@@ -1,0 +1,1 @@
+W trakcie opracowywania algorytmu pojawiło się dużo małych błędów, które iteracyjnie były wykrywane i poprawiane. W tym folderze zostawiam różne ciekawe rzeczy, które się policzyły -- mimo to, że nie są w pełni poprawne (np. funkcja kosztu nie działała prawidłowo)
